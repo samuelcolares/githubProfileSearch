@@ -1,6 +1,7 @@
 <h1 align="center">Github Profile Search</h1>
+<h6 align="center">Scrolldown to see english readme</h6>
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" alt="html5" width="60" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" alt="html5" width="60" height="40"/></div>
+</div>
 <h3>Descrição</h3>
 
 O projeto contém um input que recebe o username do usuário e ao pressionar enter, um request à API do github é feita trazendo um card contendo:
@@ -65,6 +66,8 @@ Este projeto foi inspirado no projeto número 29 do repositório público 50 pro
 
 ---
 <br><br><br>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" alt="html5" width="60" height="40"/></div>
 <h3>Description</h3>
 The project contains an input that receives the user's username and when enter is pressed, a request is made to the GitHub API bringing a card containing:
 
